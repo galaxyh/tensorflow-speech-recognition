@@ -14,3 +14,5 @@ matplotlib
 libtorrent
 tensorlayer
 # cv,cv2 #  deprecated, we use matplotlib.pyplot now
+pyasn1>=0.6.2 # not directly required, pinned by Snyk to avoid a vulnerability
+wheel>=0.46.2 # not directly required, pinned by Snyk to avoid a vulnerability
