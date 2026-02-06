@@ -14,3 +14,4 @@ matplotlib
 libtorrent
 tensorlayer
 # cv,cv2 #  deprecated, we use matplotlib.pyplot now
+protobuf>=5.29.6 # not directly required, pinned by Snyk to avoid a vulnerability
